@@ -1,6 +1,6 @@
 
 # Microsoft Student Accelerator 2020 🚀
-## Web Development and Application Programming Interfaces's
+## Web Development and Application Programming Interfaces
 
 
 ![Banner](/banner.jpeg)
