@@ -4,7 +4,7 @@
 
 ### Python has its own defined interface known as WSGI - "Web Server Gateway Interface"
 
-### Flask is built upon the WSGI - Defined by PEP \#3333 'Python Enhancement Proposal'
+### Flask is built upon the WSGI Specification - Defined by PEP \#3333 'Python Enhancement Proposal'
 
 ### It is considered a microservice framework designed to assist us in rapid application development
 
