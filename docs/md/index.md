@@ -20,6 +20,7 @@ In this repository you will find some slides for the **Stack Breakdown** compone
 - Green Unicorn - Python Application Server
 - NGINX - Open Source Web Server
 
-### Access our demo Todo List application here: [Link](https://flasktodomd.azurewebsites.net/)
+### Access our demo Todo List application here:
+[Link](https://flasktodomd.azurewebsites.net/)
 
 > :ToCPrevNext
