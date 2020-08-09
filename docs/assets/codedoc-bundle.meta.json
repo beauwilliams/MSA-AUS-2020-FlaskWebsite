@@ -1,0 +1,111 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "5xoS7HA++zta12NQs4KMZQ=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/content/theme.ts",
+      "hash": "Kf5EQodZRaB6F3t2yIrhCw=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "mgbM4W3nBiUBTLd0y2iO/Q=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "tRSDA8MWVgWM9NGbrVD+Og=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "MdaKewoHhjZi+A4W+qw4Bg=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "Z3W4/DZmLW2DWGRPPPmhAA=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "ntA9ST1wCVpc6p3EYsAgzA=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "jmPXsGJgvmfpyGe3goE9fA=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "MN5Kcih2v8HkRzBeg07oWg=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "Mvz7wCuR9nQVhbSmc6ovhQ=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "lA9sx8yGnmxj0fRCFSS9AQ=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "oLKPTKc5QRdUOe7sUGVMIQ=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "d6u+aaj0CmZUDicQQsosrw=="
+    },
+    {
+      "name": "copyLineLinks",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "ol9sIjRR20iUqclH/NBfxw=="
+    },
+    {
+      "name": "reloadOnChange",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
+      "hash": "zBqZPfZ8W/GomL5fGJfrXQ=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCPrevNext",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "ikW1AWG5C/VZhL3EMsgnLQ=="
+    },
+    {
+      "name": "GithubSearch",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "UDIOqCXhTw7rMd4s8H6B0g=="
+    },
+    {
+      "name": "ToCToggle",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "EMGYDqot+odyX08kBP6hSQ=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "NjJxml7YlncUbS7zkv7h6A=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "yIMcnRA6Rgc1o5sEioRC6A=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "YmS1e5o0g9e+3B5MfeYJkw=="
+  }
+}

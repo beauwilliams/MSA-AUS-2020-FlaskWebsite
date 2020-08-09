@@ -1,0 +1,5 @@
+{
+  "main": "../dist/es5/external-sheet.js",
+  "module": "../dist/es6/external-sheet.js",
+  "types": "../dist/es6/external-sheet.d.ts"
+}
