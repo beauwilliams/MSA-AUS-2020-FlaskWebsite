@@ -13,7 +13,6 @@ import { smoothLoading } from '/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebs
 import { tocHighlight } from '/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js';tocHighlight();
 import { postNavSearch } from '/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { copyLineLinks } from '/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
-import { reloadOnChange } from '/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js';reloadOnChange();
 import { ToCPrevNext } from '/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 import { GithubSearch } from '/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js';
 import { ToCToggle } from '/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';

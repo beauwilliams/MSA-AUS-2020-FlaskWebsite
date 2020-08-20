@@ -69,11 +69,6 @@
       "name": "copyLineLinks",
       "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
       "hash": "ol9sIjRR20iUqclH/NBfxw=="
-    },
-    {
-      "name": "reloadOnChange",
-      "filename": "/Users/admin/Git_Downloads/MSA-AUS-2020-FlaskWebsite/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
-      "hash": "zBqZPfZ8W/GomL5fGJfrXQ=="
     }
   ],
   "components": [
